@@ -1,4 +1,4 @@
-#inclue<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespce std();
 
 int missingK(vector<int> vec, int k){
